@@ -24,4 +24,8 @@ jobs:
     - name: Build with Maven
       run: mvn -B package --file pom.xml
 
+<<<<<<< HEAD
     
+=======
+
+>>>>>>> 52ea88ecf67e4c38b6d29bb20536d7adbdcc6722
